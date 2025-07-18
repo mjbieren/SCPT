@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCPT", "SCPT.vcxproj", "{D01CC43C-87E7-4FBC-913F-776328F92DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Debug|ARM.ActiveCfg = Debug|ARM
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Debug|ARM.Build.0 = Debug|ARM
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Debug|ARM.Deploy.0 = Debug|ARM
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Debug|ARM64.Build.0 = Debug|ARM64
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Debug|x64.ActiveCfg = Debug|x64
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Debug|x64.Build.0 = Debug|x64
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Debug|x64.Deploy.0 = Debug|x64
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Debug|x86.ActiveCfg = Debug|x86
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Debug|x86.Build.0 = Debug|x86
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Debug|x86.Deploy.0 = Debug|x86
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Release|ARM.ActiveCfg = Release|ARM
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Release|ARM.Build.0 = Release|ARM
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Release|ARM.Deploy.0 = Release|ARM
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Release|ARM64.ActiveCfg = Release|ARM64
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Release|ARM64.Build.0 = Release|ARM64
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Release|ARM64.Deploy.0 = Release|ARM64
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Release|x64.ActiveCfg = Release|x64
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Release|x64.Build.0 = Release|x64
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Release|x64.Deploy.0 = Release|x64
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Release|x86.ActiveCfg = Release|x86
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Release|x86.Build.0 = Release|x86
+		{D01CC43C-87E7-4FBC-913F-776328F92DAB}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89A9B033-DF69-47D9-A5B3-C28BCDEBEF09}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SCPT.vcxproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
