@@ -77,7 +77,7 @@ This will:
 * Output a .tsv file in SCPT_Output/
 
 #### Taxonomic Group file
-This program uses a taxonomic group file to identify the differences between species and species headers.  See the folder [TaxonomicGroupFiles](https://github.com/mjbieren/OrthoGroup_Sequence_Grabber/upload/main/TaxonomicGroupFiles) for examples.
+This program uses a taxonomic group file to identify the differences between species and species headers.  See the folder [TaxonomicGroupFiles](https://github.com/mjbieren/SCPT/tree/main/TaxonomicGroupFiless) for examples.
 The Taxonomic Group file is formatted like this:
 ```
 SpeciesName1(HeaderName),Speciesname2(HeaderName)
