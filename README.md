@@ -65,17 +65,6 @@ SCPT.out -f <FastaFilesPath> -r <OutputFolderPath> -t <TaxonomicGroupFile> -s
 
 ---
 
-### Arguments
-
-| Flag | Description |
-|------|-------------|
-| `-f` | **Path to input FASTA files**. Provide a folder containing your `.fa` or `.fasta` files. **(Required)** |
-| `-r` | **Path to the output folder**. Where the summary result will be saved. **(Required)** |
-| `-t` | **Taxonomic group file**. Used to map and count species across input files. Format should be consistent with other tools (one group per line, species separated by commas). **(Required)** |
-| `-s` | Optional flag. If set, the program will interpret FASTA headers as containing **only species/strain names**, not full gene IDs. |
-
----
-
 ## 🧪 Example Run
 
 ```
